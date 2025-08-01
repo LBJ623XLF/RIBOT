@@ -1,0 +1,24 @@
+{
+  "name": "ribot-company-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "framer-motion": "^10.16.1",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.3.3",
+    "@types/react": "^18.2.16",
+    "@types/node": "^20.4.2"
+  }
+}
